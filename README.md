@@ -5,61 +5,46 @@ Q2 — Importer dans MongoDB Compass
 Importer ce fichier via le bouton d'import.
 ![Importer ce fichier via le bouton d'import](/imges/question2_importe_livres.png)
 Q3 — Combien de documents ?
-Nombre de documents : 8 documents
-
+![Nombre de documents ](/imges/Q3%20—%20Combien_de_documents.png)
 Q4 — Le premier document
-Premier document : Titre "Le Petit Prince"
-
+![Premier document](/imges/Q4%20—%20Le_premier_document.png)
 Q5 — Le deuxième document
-Deuxième document : Auteur "George Orwell"
-
+![Deuxième document](/imges/Q5%20—%20Le_deuxieme_document.png)
 Q6 — Un document précis
-Trouve le document dont le titre est celui de ton livre à auteurs multiples. A-t-il bien un champ auteurs au
-pluriel ?
-
+![document précis](/imges/Q6%20—%20Un_document_precis.png)
 Q7 — Chapitres
-Ce même document a-t-il un champ chapitres ? Liste-les.
-
-Le champ chapitres est présent sous forme de tableau (Array (3))
-
+![chapitres](/imges/Q7%20—%20Chapitres.png)
 Q8 — Le plus ancien
-Trouve le document le plus ancien de la collection.
-Livre le plus ancien : "L'Étranger" sorti en 1942.
-
+![Livre le plus ancien](/imges/Q8%20—%20Le_plus_ancien.png)
 Q9 — Le plus récent
-Trouve le document le plus récent.
-Livre le plus récent : "Guide de survie en forêt" sorti en 2020.
-
+![Livre le plus récent](/imges/Q9%20—%20Le_plus_recent.png)
 Q10 — Champ unique
-Un seul document a un champ qui n'existe sur aucun autre. Lequel, et lequel est ce champ ?
-Champ unique : Le champ illustrations : true, présent uniquement dans le document "Guide de survie en forêt"
-
+![le Champ unique](/imges/Q10%20—%20Champ_unique.png)
 Q11 — Filtre sur une année précise
-![](/imges/Q11.png)
-
+![Filtre sur une année précise](/imges/Q11%20—%20Filtre_sur_une_annee_precise.png)
  Q12- Filtre ">"
 Combien de livres ont été publiés après 2000 ?
-
+![Filtre ">" (après 2000)](/imges/Q12%20—%20Filtre_(apres%202000).png)
 Q13 — Filtre "<"
 Combien de livres ont été publiés avant 1950 ?
-![](/imges/Q13.png)
+![Q13 — Filtre "<" (avant 1950)](/imges/Q13%20—%20Filtre_(avant%201950).png)
 Q14 — Filtre sur un tableau
 Trouve le livre qui contient un chapitre précis.
-![](/imges/Q14.png)
+![Filtre sur un tableau](/imges/Q14%20—%20Filtre_sur_un_tableau.png)
 Q15 — Filtre sur l'auteur
 Trouve un livre à partir du nom exact de son auteur.
-![](/imges/Q15.png)
+![Filtre sur l'auteur](/imges/)
 Q16 — Ajouter un champ
-Ouvre un document et ajoute-lui un champ note avec une valeur de ton choix.
+![](/imges/Q16%20—%20Ajouter_un_champ.png)
 
 Q17 — Vérifier l'ajout
 Rouvre ce document pour confirmer que le champ est bien là.
-![](/imges/Q17.png)
+![](/imges/Q17%20—%20Verifier_ajout.png)
 Q18 — Ajouter un document
 Insère un nouveau document avec un titre et une année de ton choix.
-![](/imges/Q18.png)
+![Ajouter un document](/imges/Q18%20—%20Ajouter_un_document1.png)
 Q19 — Vérifier le compteur
-Le nombre total de documents a-t-il bien augmenté de 1 ?
+![](/imges/Q19%20—%20Verifier_le_compteur.png)
 
 Q20 — Supprimer
-Supprime ce document ajouté. Le compteur est-il revenu à sa valeur initiale ?
+![](/imges/Q20%20—%20Supprimer_et_verifier.png)
